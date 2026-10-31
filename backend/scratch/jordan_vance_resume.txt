@@ -1,0 +1,18 @@
+
+JORDAN VANCE
+Full-Stack & Cloud Infrastructure Engineer
+Email: jordan.vance@example.test | Phone: (555) 321-7654
+
+SUMMARY:
+Results-driven software engineer with 4 years building scalable web services with Node.js, Express, React, and MongoDB.
+Containerized microservices deployments with Docker and automated testing pipelines in GitHub Actions CI/CD.
+
+EXPERIENCE:
+Software Engineer | Acme Distributed Systems (2021 - Present)
+- Architected REST APIs in Node.js and MongoDB serving 200,000 requests per day.
+- Authored Dockerfiles and multi-stage container builds for microservices.
+- Implemented automated CI/CD deployment pipelines using GitHub Actions.
+- Designed database schemas, indexing strategies, and automated data migrations.
+
+SKILLS:
+Node.js, Express, React, MongoDB, Docker, Git, CI/CD, JavaScript, REST APIs, Microservices
